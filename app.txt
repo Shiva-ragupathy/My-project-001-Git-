@@ -1,0 +1,8 @@
+# create a  simple python file for the test trails
+print("Hello from proj01")
+
+def add(a, b):
+    return a + b
+
+result = add(5, 3)
+print("Sum:", result)

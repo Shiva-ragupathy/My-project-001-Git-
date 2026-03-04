@@ -1,0 +1,7 @@
+console.log("Hello from proj01");
+
+function multiply(a, b) {
+    return a * b;
+}
+
+console.log("Multiplication:", multiply(4, 5));
